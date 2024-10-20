@@ -34,7 +34,7 @@
                         bindings = <
    &kp ESC    &kp EXCL     &kp AT       &kp HASH     &kp DLLR     &kp PRCNT      &kp CARET  &kp AMPS &kp ASTRK &kp BSLH  &kp PIPE &kp DEL
    &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4   &kp LEFT   &kp DOWN &kp UP    &kp RIGHT &trans   &kp UNDERSCORE
-   &kp LSHFT  &kp LPAR     &kp RPAR     &kp LBRC     &kp RBRC     &trans         &kp SQT    &kp LBKT &kp RBKT  &trans    &trans   &kp SQT
+   &kp LSHFT  &kp LPAR     &kp RPAR     &kp LBRC     &kp RBRC     &trans         &kp SQT    &kp SQT  &trans    &trans    &trans   &kp SQT
                                         &trans       &trans       &trans         &trans     &trans   &trans
                         >;
                 };
